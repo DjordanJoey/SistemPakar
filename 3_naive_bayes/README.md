@@ -1,0 +1,2 @@
+# Pembahasan
+Disini saya mencoba algoritma naive bayes dengan menggunakan dataset mobile.csv untuk melakukan klarifikasi apakah sebuah mobile dengan spesifikasi tertentu memiliki fitur tambahan untuk dapat terhubung dengan wifi. Dimana Jika outputnya mengeluarkan angka 0 menunjukan bahwa mobile tersebut tidak memiliki fitur wifi sedangkan jika outputnya bernilai 1 maka mobile tersebut memiliki fitur wifi.
